@@ -4,7 +4,7 @@ My name is Branden Torrance. I am a recently graduated student from Brigham Youn
 <br><br>
 As for work experience, I have worked in an internship for a year with Crain Communications. There, I worked as a web developer intern and I worked with additional technologies, such as Drupal, Jira, Bitbucket. Our team utilized the SCRUM methodology. We would participate in daily standups and we used story points to assign the estimated effort required for each task.
 <br><br>
-As for a little bit about myself, I was originally training to be a commercial pilot. I had received my private pilot's license and began working on my commercial license, but I realized that being gone from my family for multiple days a week would be too difficult for myself and my family, so I decided on a career change. I've always been interested in computers and software, so I decided to take my first coding class and I was immediately hooked. I find great fulfillment in creating software and problem-solving, and I am excited to build and improve upon my coding skills throughout my career!
+A little bit about myself - I was originally training to be a commercial pilot. I had received my private pilot's license and began working on my commercial license, but I realized that being gone from my family for multiple days a week would be too difficult for myself and my family, so I decided on a career change. I've always been interested in computers and software, so I decided to take my first coding class and I was immediately hooked. I find great fulfillment in creating software and problem-solving, and I am excited to build and improve upon my coding skills throughout my career!
 <br><br>
 <hr>
 Assignment/project portal: (https://branden-torrance.github.io/)
