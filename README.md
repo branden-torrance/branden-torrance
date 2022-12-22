@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hello! 👋
 
-My name is Branden Torrance. I am currently a senior at BYU-I as an online student, and I'm expecting to graduate with my Bachelor's in Applied technology, with emphasis in Software Development, at the end of December 2022. 
+My name is Branden Torrance. I am a recently graduated student from Brigham Young University - Idaho (BYU-I). I have a Bachelor's degree in Applied Technology with an emphasis in Software Development. I have experience with many different technologies and languages, including HTML/CSS/SCSS, JavaScript, Node.js, RESTful APIs, PHP, Python, Relational and non-relational databases (MySQL and MongoDB), and some Angular/React experience.
 <br><br>
-Right now, I'm currently learning about creating RESTful APIs using Node.js, Express, Render, and MongoDB. It has been a fun challenge and I look forward to learning more and being able to flesh out my API. I am also working with a team, and we will be tasked with creating a RESTful API later this semester. I am excited for the challenge to learn and grow through these assignments!
+As for work experience, I have worked in an internship for a year with Crain Communications. There, I worked as a web developer intern and I worked with additional technologies, such as Drupal, Jira, Bitbucket. Our team utilized the SCRUM methodology. We would participate in daily standups and we used story points to assign the estimated effort required for each task.
 <br><br>
-How did I end up here? Well, I originally was training to be a commercial pilot. I had received my private pilot's license and began working on my commercial license, but I realized that being gone from my family for multiple days a week would be too difficult, so I decided on a career change. I've always been interested in computers and software, so I decided to take a coding class a few years back, and the rest is history!
+As for a little bit about myself, I was originally training to be a commercial pilot. I had received my private pilot's license and began working on my commercial license, but I realized that being gone from my family for multiple days a week would be too difficult for myself and my family, so I decided on a career change. I've always been interested in computers and software, so I decided to take my first coding class and I was immediately hooked. I find great fulfillment in creating software and problem-solving, and I am excited to build and improve upon my coding skills throughout my career!
 <br><br>
 <hr>
 Assignment/project portal: (https://branden-torrance.github.io/)
