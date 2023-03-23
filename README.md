@@ -7,6 +7,6 @@ As for work experience, I have worked in an internship for a year with Crain Com
 A little bit about myself - I was originally training to be a commercial pilot. I had received my private pilot's license and began working on my commercial license, but I realized that being gone from my family for multiple days a week would be too difficult for myself and my family, so I decided on a career change. I've always been interested in computers and software, so I decided to take my first coding class and I was immediately hooked. I find great fulfillment in creating software and problem-solving, and I am excited to build and improve upon my coding skills throughout my career!
 <br><br>
 <hr>
-Project portal (Junior): (https://branden-torrance.github.io/project-portal/)
+Project portal: (https://branden-torrance.github.io/project-portal/)
 <br>
 LinkedIn Profile: (https://linkedin.com/in/brandentorrance/)
